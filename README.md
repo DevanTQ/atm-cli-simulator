@@ -48,8 +48,8 @@ ENJOY/
 
 1. **Clone or Download this repository**
    ```bash
-   git clone <repository-url>
-   cd ENJOY
+   git clone https://github.com/DevanTQ/atm-cli-simulator
+   cd atm-cli-simulator
    ```
 
 2. **Create Virtual Environment (Optional but recommended)**
@@ -93,10 +93,10 @@ Follow the instructions:
 Move the ATM card file from `cardatm/` folder to `holeCard/` folder:
 
 ```bash
-# Example (Windows):
+# OS (Windows):
 move cardatm\CardName.json holeCard\
 
-# Example (Linux/Mac):
+# OS (Linux/Mac):
 mv cardatm/CardName.json holeCard/
 ```
 
