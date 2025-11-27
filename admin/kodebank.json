@@ -1,0 +1,23 @@
+{
+    "ATM" : {
+        "NovaBank" : {
+            "KODE" : "584"
+        },
+
+        "ByteVault" : {
+            "KODE" : "739"
+        },
+
+        "ProtonPay" : {
+            "KODE" : "921"
+        },
+
+        "FluxFinance" : {
+            "KODE" : "448"
+        },
+
+        "ZenithLedger" : {
+            "KODE" : "667"
+        }
+    }
+}

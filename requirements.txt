@@ -1,0 +1,13 @@
+# Requirements for ATM CLI Program
+# Install dengan: pip install -r requirements.txt
+ =============================================================
+# Built-in Python modules yang dipakai (tidak perlu install):
+# - os
+# - time
+# - json
+# - getpass
+# - random
+# - hashlib
+# - datetime
+# - pathlib
+# - base64
